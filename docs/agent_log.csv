@@ -1,0 +1,575 @@
+action,timestamp,caseId,tool_used,comment
+Coverage inquiry initiated,2025-11-26T16:58:52.097694,33737b97-d117-4872-815d-02ba8266a2cf,{},{}
+Input message set,2025-11-26T16:58:52.097752,33737b97-d117-4872-815d-02ba8266a2cf,{},{}
+Patient Verification Completed,2025-11-26T16:58:55.247982,33737b97-d117-4872-815d-02ba8266a2cf,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T16:58:58.799997,33737b97-d117-4872-815d-02ba8266a2cf,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T16:59:01.979638,33737b97-d117-4872-815d-02ba8266a2cf,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T16:59:01.979709,33737b97-d117-4872-815d-02ba8266a2cf,{},{}
+Coverage inquiry initiated,2025-11-26T16:59:05.968466,50532a16-6fe8-427b-af01-1d1710c2f3ce,{},{}
+Input message set,2025-11-26T16:59:05.968530,50532a16-6fe8-427b-af01-1d1710c2f3ce,{},{}
+Patient Verification Completed,2025-11-26T16:59:09.419232,50532a16-6fe8-427b-af01-1d1710c2f3ce,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T16:59:12.901436,50532a16-6fe8-427b-af01-1d1710c2f3ce,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T16:59:17.166921,50532a16-6fe8-427b-af01-1d1710c2f3ce,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T16:59:17.166957,50532a16-6fe8-427b-af01-1d1710c2f3ce,{},{}
+Coverage inquiry initiated,2025-11-26T16:59:20.644407,0afbf068-e813-46bb-a514-8ca4f6f63f0f,{},{}
+Input message set,2025-11-26T16:59:20.644477,0afbf068-e813-46bb-a514-8ca4f6f63f0f,{},{}
+Patient Verification Completed,2025-11-26T16:59:24.253570,0afbf068-e813-46bb-a514-8ca4f6f63f0f,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T16:59:27.913933,0afbf068-e813-46bb-a514-8ca4f6f63f0f,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T16:59:32.372314,0afbf068-e813-46bb-a514-8ca4f6f63f0f,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T16:59:32.372356,0afbf068-e813-46bb-a514-8ca4f6f63f0f,{},{}
+Coverage inquiry initiated,2025-11-26T16:59:37.381500,89b6a345-9981-4b6e-ba49-bcc03cada898,{},{}
+Input message set,2025-11-26T16:59:37.381553,89b6a345-9981-4b6e-ba49-bcc03cada898,{},{}
+Patient Verification Completed,2025-11-26T16:59:41.909191,89b6a345-9981-4b6e-ba49-bcc03cada898,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T16:59:45.111352,89b6a345-9981-4b6e-ba49-bcc03cada898,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T16:59:49.657292,89b6a345-9981-4b6e-ba49-bcc03cada898,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T16:59:49.657330,89b6a345-9981-4b6e-ba49-bcc03cada898,{},{}
+Coverage inquiry initiated,2025-11-26T16:59:52.556108,f4895205-9e63-4b48-841a-708b2f3c9c7e,{},{}
+Input message set,2025-11-26T16:59:52.556163,f4895205-9e63-4b48-841a-708b2f3c9c7e,{},{}
+Patient Verification Completed,2025-11-26T16:59:57.964142,f4895205-9e63-4b48-841a-708b2f3c9c7e,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:00:03.898287,f4895205-9e63-4b48-841a-708b2f3c9c7e,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:00:07.621709,f4895205-9e63-4b48-841a-708b2f3c9c7e,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:00:07.621765,f4895205-9e63-4b48-841a-708b2f3c9c7e,{},{}
+Coverage inquiry initiated,2025-11-26T17:00:10.561350,f8bf890f-3130-451a-9efd-eefd0b40f648,{},{}
+Input message set,2025-11-26T17:00:10.561403,f8bf890f-3130-451a-9efd-eefd0b40f648,{},{}
+Patient Verification Completed,2025-11-26T17:00:13.848773,f8bf890f-3130-451a-9efd-eefd0b40f648,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:00:17.330723,f8bf890f-3130-451a-9efd-eefd0b40f648,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:00:21.234497,f8bf890f-3130-451a-9efd-eefd0b40f648,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:00:21.234540,f8bf890f-3130-451a-9efd-eefd0b40f648,{},{}
+Coverage inquiry initiated,2025-11-26T17:00:23.964042,54479e5a-0319-442e-aebf-4d59ec37329f,{},{}
+Input message set,2025-11-26T17:00:23.964093,54479e5a-0319-442e-aebf-4d59ec37329f,{},{}
+Patient Verification Completed,2025-11-26T17:00:27.793486,54479e5a-0319-442e-aebf-4d59ec37329f,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:00:31.446189,54479e5a-0319-442e-aebf-4d59ec37329f,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:00:36.182734,54479e5a-0319-442e-aebf-4d59ec37329f,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:00:36.182774,54479e5a-0319-442e-aebf-4d59ec37329f,{},{}
+Coverage inquiry initiated,2025-11-26T17:00:39.727850,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,{},{}
+Input message set,2025-11-26T17:00:39.727896,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,{},{}
+Patient Verification Completed,2025-11-26T17:00:43.002233,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:00:48.381161,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:00:53.151770,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:00:53.151817,41bb9a71-70f3-4e38-bc27-8bc9e0fce0f9,{},{}
+Coverage inquiry initiated,2025-11-26T17:00:56.767264,c621fe75-4176-4ff6-afaf-68b117728b83,{},{}
+Input message set,2025-11-26T17:00:56.767321,c621fe75-4176-4ff6-afaf-68b117728b83,{},{}
+Patient Verification Completed,2025-11-26T17:00:59.718546,c621fe75-4176-4ff6-afaf-68b117728b83,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:01:03.242319,c621fe75-4176-4ff6-afaf-68b117728b83,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:01:09.145594,c621fe75-4176-4ff6-afaf-68b117728b83,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:01:09.145635,c621fe75-4176-4ff6-afaf-68b117728b83,{},{}
+Coverage inquiry initiated,2025-11-26T17:01:14.185795,788ea54e-cdbc-416b-813c-ed980f9b16e0,{},{}
+Input message set,2025-11-26T17:01:14.185848,788ea54e-cdbc-416b-813c-ed980f9b16e0,{},{}
+Patient Verification Completed,2025-11-26T17:01:17.040436,788ea54e-cdbc-416b-813c-ed980f9b16e0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:01:20.848980,788ea54e-cdbc-416b-813c-ed980f9b16e0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:01:24.897091,788ea54e-cdbc-416b-813c-ed980f9b16e0,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:01:24.897128,788ea54e-cdbc-416b-813c-ed980f9b16e0,{},{}
+Coverage inquiry initiated,2025-11-26T17:01:29.016987,61ac73d6-eec8-4a3e-b10a-3e230e85e118,{},{}
+Input message set,2025-11-26T17:01:29.017040,61ac73d6-eec8-4a3e-b10a-3e230e85e118,{},{}
+Patient Verification Completed,2025-11-26T17:01:32.186600,61ac73d6-eec8-4a3e-b10a-3e230e85e118,Tool used: verify_patient,{}
+Coverage inquiry initiated,2025-11-26T17:01:38.530221,b2acee33-b737-463d-8796-5c0e24500b62,{},{}
+Input message set,2025-11-26T17:01:38.530281,b2acee33-b737-463d-8796-5c0e24500b62,{},{}
+Patient Verification Completed,2025-11-26T17:01:41.713877,b2acee33-b737-463d-8796-5c0e24500b62,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:01:45.865203,b2acee33-b737-463d-8796-5c0e24500b62,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:01:50.478844,b2acee33-b737-463d-8796-5c0e24500b62,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:01:50.478891,b2acee33-b737-463d-8796-5c0e24500b62,{},{}
+Coverage inquiry initiated,2025-11-26T17:01:53.733750,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,{},{}
+Input message set,2025-11-26T17:01:53.733807,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,{},{}
+Patient Verification Completed,2025-11-26T17:01:56.670177,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:02:00.056568,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:02:05.149141,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:02:05.149174,ef090f5e-ee7d-45aa-8ae5-0bb3ff67b183,{},{}
+Coverage inquiry initiated,2025-11-26T17:02:10.806109,2078dd2c-2824-4fee-858f-46a36ebb915d,{},{}
+Input message set,2025-11-26T17:02:10.806156,2078dd2c-2824-4fee-858f-46a36ebb915d,{},{}
+Patient Verification Completed,2025-11-26T17:02:13.980040,2078dd2c-2824-4fee-858f-46a36ebb915d,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:02:17.157173,2078dd2c-2824-4fee-858f-46a36ebb915d,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:02:20.287786,2078dd2c-2824-4fee-858f-46a36ebb915d,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:02:20.287840,2078dd2c-2824-4fee-858f-46a36ebb915d,{},{}
+Coverage inquiry initiated,2025-11-26T17:02:23.671552,bb2defc9-42c7-48fd-9ab6-0690f861dcb0,{},{}
+Input message set,2025-11-26T17:02:23.671610,bb2defc9-42c7-48fd-9ab6-0690f861dcb0,{},{}
+Patient Verification Completed,2025-11-26T17:02:26.463784,bb2defc9-42c7-48fd-9ab6-0690f861dcb0,Tool used: verify_patient,{}
+Coverage inquiry initiated,2025-11-26T17:02:32.223571,1b694267-c00a-45f6-9e18-8d54b170ff3a,{},{}
+Input message set,2025-11-26T17:02:32.223625,1b694267-c00a-45f6-9e18-8d54b170ff3a,{},{}
+Patient Verification Completed,2025-11-26T17:02:35.524751,1b694267-c00a-45f6-9e18-8d54b170ff3a,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:02:39.186087,1b694267-c00a-45f6-9e18-8d54b170ff3a,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:02:43.546250,1b694267-c00a-45f6-9e18-8d54b170ff3a,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:02:43.546298,1b694267-c00a-45f6-9e18-8d54b170ff3a,{},{}
+Coverage inquiry initiated,2025-11-26T17:02:46.933397,cebc1f37-eff4-4619-aab5-ee9088aca1de,{},{}
+Input message set,2025-11-26T17:02:46.933449,cebc1f37-eff4-4619-aab5-ee9088aca1de,{},{}
+Patient Verification Completed,2025-11-26T17:02:49.534307,cebc1f37-eff4-4619-aab5-ee9088aca1de,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:02:53.022084,cebc1f37-eff4-4619-aab5-ee9088aca1de,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:02:56.582754,cebc1f37-eff4-4619-aab5-ee9088aca1de,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:02:56.582813,cebc1f37-eff4-4619-aab5-ee9088aca1de,{},{}
+Coverage inquiry initiated,2025-11-26T17:03:01.200020,3991fb61-ac18-4b4f-b00c-d80801d0d45d,{},{}
+Input message set,2025-11-26T17:03:01.200079,3991fb61-ac18-4b4f-b00c-d80801d0d45d,{},{}
+Patient Verification Completed,2025-11-26T17:03:05.264988,3991fb61-ac18-4b4f-b00c-d80801d0d45d,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:03:11.063919,3991fb61-ac18-4b4f-b00c-d80801d0d45d,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:03:15.350081,3991fb61-ac18-4b4f-b00c-d80801d0d45d,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:03:15.350118,3991fb61-ac18-4b4f-b00c-d80801d0d45d,{},{}
+Coverage inquiry initiated,2025-11-26T17:03:20.367519,41502201-c574-4efc-9cf0-ed0376acb943,{},{}
+Input message set,2025-11-26T17:03:20.367569,41502201-c574-4efc-9cf0-ed0376acb943,{},{}
+Patient Verification Completed,2025-11-26T17:03:23.924998,41502201-c574-4efc-9cf0-ed0376acb943,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:03:27.111565,41502201-c574-4efc-9cf0-ed0376acb943,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:03:32.719931,41502201-c574-4efc-9cf0-ed0376acb943,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:03:32.719964,41502201-c574-4efc-9cf0-ed0376acb943,{},{}
+Coverage inquiry initiated,2025-11-26T17:03:36.641585,dbf53e14-581c-4870-9f93-a22b422434d0,{},{}
+Input message set,2025-11-26T17:03:36.641629,dbf53e14-581c-4870-9f93-a22b422434d0,{},{}
+Patient Verification Completed,2025-11-26T17:03:39.833364,dbf53e14-581c-4870-9f93-a22b422434d0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:03:43.507492,dbf53e14-581c-4870-9f93-a22b422434d0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:03:47.389048,dbf53e14-581c-4870-9f93-a22b422434d0,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:03:47.389091,dbf53e14-581c-4870-9f93-a22b422434d0,{},{}
+Coverage inquiry initiated,2025-11-26T17:03:50.380923,46f115ad-52a2-4d00-8d70-011149f2b439,{},{}
+Input message set,2025-11-26T17:03:50.381015,46f115ad-52a2-4d00-8d70-011149f2b439,{},{}
+Patient Verification Completed,2025-11-26T17:03:53.861910,46f115ad-52a2-4d00-8d70-011149f2b439,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:04:00.010136,46f115ad-52a2-4d00-8d70-011149f2b439,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:04:00.010174,46f115ad-52a2-4d00-8d70-011149f2b439,{},{}
+Coverage inquiry initiated,2025-11-26T17:04:06.518705,bbb8de79-0a13-4ef7-9f2b-b2d1aca60dd2,{},{}
+Input message set,2025-11-26T17:04:06.518751,bbb8de79-0a13-4ef7-9f2b-b2d1aca60dd2,{},{}
+Patient Verification Completed,2025-11-26T17:04:09.915447,bbb8de79-0a13-4ef7-9f2b-b2d1aca60dd2,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:04:15.158331,bbb8de79-0a13-4ef7-9f2b-b2d1aca60dd2,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:04:15.158373,bbb8de79-0a13-4ef7-9f2b-b2d1aca60dd2,{},{}
+Coverage inquiry initiated,2025-11-26T17:04:17.792615,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,{},{}
+Input message set,2025-11-26T17:04:17.792695,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,{},{}
+Patient Verification Completed,2025-11-26T17:04:21.192955,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:04:25.097221,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:04:30.419213,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:04:30.419251,dbbd236a-83f6-49ce-bddb-83ffd1ac5e21,{},{}
+Coverage inquiry initiated,2025-11-26T17:04:35.059185,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,{},{}
+Input message set,2025-11-26T17:04:35.059253,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,{},{}
+Patient Verification Completed,2025-11-26T17:04:38.795925,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:04:41.684720,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:04:45.276415,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:04:45.276459,b4e00a09-7057-4ed4-b9d2-0a04c4b14c37,{},{}
+Coverage inquiry initiated,2025-11-26T17:04:48.827762,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,{},{}
+Input message set,2025-11-26T17:04:48.827816,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,{},{}
+Patient Verification Completed,2025-11-26T17:04:52.664603,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:04:56.569195,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:05:02.826115,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:05:02.826148,d9e7d9f3-5a39-44ea-8a3b-2541da33e0f2,{},{}
+Coverage inquiry initiated,2025-11-26T17:05:06.889362,5b01d72b-180a-4638-bdba-b1f41a3de63c,{},{}
+Input message set,2025-11-26T17:05:06.889414,5b01d72b-180a-4638-bdba-b1f41a3de63c,{},{}
+Patient Verification Completed,2025-11-26T17:05:10.800639,5b01d72b-180a-4638-bdba-b1f41a3de63c,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:05:14.122307,5b01d72b-180a-4638-bdba-b1f41a3de63c,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:05:19.182060,5b01d72b-180a-4638-bdba-b1f41a3de63c,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:05:19.182116,5b01d72b-180a-4638-bdba-b1f41a3de63c,{},{}
+Coverage inquiry initiated,2025-11-26T17:05:22.815370,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,{},{}
+Input message set,2025-11-26T17:05:22.815460,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,{},{}
+Patient Verification Completed,2025-11-26T17:05:27.624088,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:05:31.005083,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:05:36.186516,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:05:36.186557,9ea4dee0-c601-4f49-8089-1b42d1ffacc0,{},{}
+Coverage inquiry initiated,2025-11-26T17:05:39.619839,fd9e871e-4443-4083-8547-769809197102,{},{}
+Input message set,2025-11-26T17:05:39.619881,fd9e871e-4443-4083-8547-769809197102,{},{}
+Patient Verification Completed,2025-11-26T17:05:43.112634,fd9e871e-4443-4083-8547-769809197102,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:05:47.931233,fd9e871e-4443-4083-8547-769809197102,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:05:50.997637,fd9e871e-4443-4083-8547-769809197102,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:05:50.997699,fd9e871e-4443-4083-8547-769809197102,{},{}
+Coverage inquiry initiated,2025-11-26T17:05:54.284434,73069bd9-85b3-4729-beb1-fea46a5431c8,{},{}
+Input message set,2025-11-26T17:05:54.284487,73069bd9-85b3-4729-beb1-fea46a5431c8,{},{}
+Patient Verification Completed,2025-11-26T17:05:57.123593,73069bd9-85b3-4729-beb1-fea46a5431c8,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:06:00.313065,73069bd9-85b3-4729-beb1-fea46a5431c8,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:06:03.422307,73069bd9-85b3-4729-beb1-fea46a5431c8,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:06:03.422361,73069bd9-85b3-4729-beb1-fea46a5431c8,{},{}
+Coverage inquiry initiated,2025-11-26T17:06:07.032543,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,{},{}
+Input message set,2025-11-26T17:06:07.032599,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,{},{}
+Patient Verification Completed,2025-11-26T17:06:10.743260,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:06:14.452748,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:06:18.514793,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:06:18.514829,8a1a54af-fb8f-42d3-b6fd-631d2ba3f083,{},{}
+Coverage inquiry initiated,2025-11-26T17:06:21.052561,84fdef4e-ad87-433f-b16e-6b9a32397cab,{},{}
+Input message set,2025-11-26T17:06:21.052615,84fdef4e-ad87-433f-b16e-6b9a32397cab,{},{}
+Patient Verification Completed,2025-11-26T17:06:24.483693,84fdef4e-ad87-433f-b16e-6b9a32397cab,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:06:29.249077,84fdef4e-ad87-433f-b16e-6b9a32397cab,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:06:29.249122,84fdef4e-ad87-433f-b16e-6b9a32397cab,{},{}
+Coverage inquiry initiated,2025-11-26T17:06:32.076438,42a9ed3e-4707-4b06-bdd6-3dea94383af5,{},{}
+Input message set,2025-11-26T17:06:32.076488,42a9ed3e-4707-4b06-bdd6-3dea94383af5,{},{}
+Patient Verification Completed,2025-11-26T17:06:35.560330,42a9ed3e-4707-4b06-bdd6-3dea94383af5,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:06:39.145985,42a9ed3e-4707-4b06-bdd6-3dea94383af5,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:06:42.769181,42a9ed3e-4707-4b06-bdd6-3dea94383af5,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:06:42.769230,42a9ed3e-4707-4b06-bdd6-3dea94383af5,{},{}
+Coverage inquiry initiated,2025-11-26T17:06:46.063894,1bc0050f-43ee-4da8-a22e-561ad350bb6e,{},{}
+Input message set,2025-11-26T17:06:46.063967,1bc0050f-43ee-4da8-a22e-561ad350bb6e,{},{}
+Patient Verification Completed,2025-11-26T17:06:50.140367,1bc0050f-43ee-4da8-a22e-561ad350bb6e,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:06:53.631248,1bc0050f-43ee-4da8-a22e-561ad350bb6e,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:06:57.432188,1bc0050f-43ee-4da8-a22e-561ad350bb6e,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:06:57.432228,1bc0050f-43ee-4da8-a22e-561ad350bb6e,{},{}
+Coverage inquiry initiated,2025-11-26T17:07:00.657926,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,{},{}
+Input message set,2025-11-26T17:07:00.657978,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,{},{}
+Patient Verification Completed,2025-11-26T17:07:05.086563,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:07:08.499393,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:07:12.633920,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:07:12.633958,e6f0a825-a1f3-44d1-95a3-32cb2f9ae87c,{},{}
+Coverage inquiry initiated,2025-11-26T17:07:16.851400,483460e7-6871-4392-8ca3-64e62a7afd2b,{},{}
+Input message set,2025-11-26T17:07:16.851454,483460e7-6871-4392-8ca3-64e62a7afd2b,{},{}
+Patient Verification Completed,2025-11-26T17:07:19.776190,483460e7-6871-4392-8ca3-64e62a7afd2b,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:07:25.415083,483460e7-6871-4392-8ca3-64e62a7afd2b,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:07:28.908886,483460e7-6871-4392-8ca3-64e62a7afd2b,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:07:28.908931,483460e7-6871-4392-8ca3-64e62a7afd2b,{},{}
+Coverage inquiry initiated,2025-11-26T17:07:31.709115,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,{},{}
+Input message set,2025-11-26T17:07:31.709166,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,{},{}
+Patient Verification Completed,2025-11-26T17:07:35.086541,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:07:38.271369,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:07:42.047087,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:07:42.047151,0a4dcd25-6ce8-48d5-9652-1b126b52abd0,{},{}
+Coverage inquiry initiated,2025-11-26T17:07:46.801685,3448f721-e55b-4bab-8d9d-51ecad260a05,{},{}
+Input message set,2025-11-26T17:07:46.801752,3448f721-e55b-4bab-8d9d-51ecad260a05,{},{}
+Patient Verification Completed,2025-11-26T17:07:50.592777,3448f721-e55b-4bab-8d9d-51ecad260a05,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:07:54.660632,3448f721-e55b-4bab-8d9d-51ecad260a05,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:07:57.723008,3448f721-e55b-4bab-8d9d-51ecad260a05,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:07:57.723056,3448f721-e55b-4bab-8d9d-51ecad260a05,{},{}
+Coverage inquiry initiated,2025-11-26T17:08:02.601148,f61903a0-697e-4dd8-872c-8e93f86d2437,{},{}
+Input message set,2025-11-26T17:08:02.601241,f61903a0-697e-4dd8-872c-8e93f86d2437,{},{}
+Patient Verification Completed,2025-11-26T17:08:06.208383,f61903a0-697e-4dd8-872c-8e93f86d2437,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:08:10.414237,f61903a0-697e-4dd8-872c-8e93f86d2437,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:08:14.019485,f61903a0-697e-4dd8-872c-8e93f86d2437,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:08:14.019540,f61903a0-697e-4dd8-872c-8e93f86d2437,{},{}
+Coverage inquiry initiated,2025-11-26T17:08:18.280960,194c8075-5383-4c8c-b372-078966560f40,{},{}
+Input message set,2025-11-26T17:08:18.281014,194c8075-5383-4c8c-b372-078966560f40,{},{}
+Patient Verification Completed,2025-11-26T17:08:21.762174,194c8075-5383-4c8c-b372-078966560f40,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:08:25.178330,194c8075-5383-4c8c-b372-078966560f40,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:08:31.427236,194c8075-5383-4c8c-b372-078966560f40,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:08:31.427274,194c8075-5383-4c8c-b372-078966560f40,{},{}
+Coverage inquiry initiated,2025-11-26T17:08:34.479229,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,{},{}
+Input message set,2025-11-26T17:08:34.479302,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,{},{}
+Patient Verification Completed,2025-11-26T17:08:39.269268,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:08:42.988730,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:08:50.233400,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:08:50.233474,bd845c3a-0a20-472d-b3eb-7cb489dc2df0,{},{}
+Coverage inquiry initiated,2025-11-26T17:08:53.694026,b032c656-f632-4ffc-96c1-4a30443a725c,{},{}
+Input message set,2025-11-26T17:08:53.694084,b032c656-f632-4ffc-96c1-4a30443a725c,{},{}
+Patient Verification Completed,2025-11-26T17:08:56.801063,b032c656-f632-4ffc-96c1-4a30443a725c,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:09:00.172988,b032c656-f632-4ffc-96c1-4a30443a725c,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:09:03.610536,b032c656-f632-4ffc-96c1-4a30443a725c,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:09:03.610591,b032c656-f632-4ffc-96c1-4a30443a725c,{},{}
+Coverage inquiry initiated,2025-11-26T17:09:08.408697,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,{},{}
+Input message set,2025-11-26T17:09:08.408758,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,{},{}
+Patient Verification Completed,2025-11-26T17:09:11.737081,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:09:14.731192,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:09:18.761058,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:09:18.761117,5a2d1f6a-fb42-4064-b7e5-8c3f25b59df2,{},{}
+Coverage inquiry initiated,2025-11-26T17:09:23.546090,cf34a54e-295d-4518-b266-f8fbf06db143,{},{}
+Input message set,2025-11-26T17:09:23.546141,cf34a54e-295d-4518-b266-f8fbf06db143,{},{}
+Patient Verification Completed,2025-11-26T17:09:26.891280,cf34a54e-295d-4518-b266-f8fbf06db143,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:09:30.378728,cf34a54e-295d-4518-b266-f8fbf06db143,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:09:34.862124,cf34a54e-295d-4518-b266-f8fbf06db143,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:09:34.862167,cf34a54e-295d-4518-b266-f8fbf06db143,{},{}
+Coverage inquiry initiated,2025-11-26T17:09:37.736529,800e98fc-5497-494c-a5bf-3b45adeb3095,{},{}
+Input message set,2025-11-26T17:09:37.736582,800e98fc-5497-494c-a5bf-3b45adeb3095,{},{}
+Patient Verification Completed,2025-11-26T17:09:40.936166,800e98fc-5497-494c-a5bf-3b45adeb3095,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:09:46.723547,800e98fc-5497-494c-a5bf-3b45adeb3095,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:09:46.723585,800e98fc-5497-494c-a5bf-3b45adeb3095,{},{}
+Coverage inquiry initiated,2025-11-26T17:09:49.340363,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,{},{}
+Input message set,2025-11-26T17:09:49.340429,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,{},{}
+Patient Verification Completed,2025-11-26T17:09:52.345384,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:09:57.321381,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:10:00.563827,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:10:00.563872,e657bdbf-72b8-44a2-b5ff-f1638ba043d4,{},{}
+Coverage inquiry initiated,2025-11-26T17:10:05.343074,f7d9a959-ef35-4485-b48b-940142d25a64,{},{}
+Input message set,2025-11-26T17:10:05.343130,f7d9a959-ef35-4485-b48b-940142d25a64,{},{}
+Patient Verification Completed,2025-11-26T17:10:08.598749,f7d9a959-ef35-4485-b48b-940142d25a64,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:10:11.771625,f7d9a959-ef35-4485-b48b-940142d25a64,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:10:15.238923,f7d9a959-ef35-4485-b48b-940142d25a64,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:10:15.238980,f7d9a959-ef35-4485-b48b-940142d25a64,{},{}
+Coverage inquiry initiated,2025-11-26T17:10:19.894049,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,{},{}
+Input message set,2025-11-26T17:10:19.894098,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,{},{}
+Patient Verification Completed,2025-11-26T17:10:22.929030,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:10:26.590157,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:10:29.534593,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:10:29.534651,8ca9b32a-057a-4faf-baa6-23e2f8e6af07,{},{}
+Coverage inquiry initiated,2025-11-26T17:10:34.002713,4b7f916f-fad1-49f6-acc2-d77931879307,{},{}
+Input message set,2025-11-26T17:10:34.002766,4b7f916f-fad1-49f6-acc2-d77931879307,{},{}
+Patient Verification Completed,2025-11-26T17:10:37.082351,4b7f916f-fad1-49f6-acc2-d77931879307,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:10:40.701254,4b7f916f-fad1-49f6-acc2-d77931879307,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:10:43.821028,4b7f916f-fad1-49f6-acc2-d77931879307,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:10:43.821081,4b7f916f-fad1-49f6-acc2-d77931879307,{},{}
+Coverage inquiry initiated,2025-11-26T17:10:48.392447,765ff3bf-7a52-4066-9a7f-d28201900fcf,{},{}
+Input message set,2025-11-26T17:10:48.392509,765ff3bf-7a52-4066-9a7f-d28201900fcf,{},{}
+Patient Verification Completed,2025-11-26T17:10:51.789746,765ff3bf-7a52-4066-9a7f-d28201900fcf,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:10:58.724930,765ff3bf-7a52-4066-9a7f-d28201900fcf,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:10:58.724970,765ff3bf-7a52-4066-9a7f-d28201900fcf,{},{}
+Coverage inquiry initiated,2025-11-26T17:11:01.390145,2dde517f-84a6-4d52-bf73-18199a6d0803,{},{}
+Input message set,2025-11-26T17:11:01.390265,2dde517f-84a6-4d52-bf73-18199a6d0803,{},{}
+Patient Verification Completed,2025-11-26T17:11:04.953337,2dde517f-84a6-4d52-bf73-18199a6d0803,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:11:08.962277,2dde517f-84a6-4d52-bf73-18199a6d0803,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:11:12.740963,2dde517f-84a6-4d52-bf73-18199a6d0803,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:11:12.741012,2dde517f-84a6-4d52-bf73-18199a6d0803,{},{}
+Coverage inquiry initiated,2025-11-26T17:11:17.747889,1ec31b23-45d0-409c-a472-c4f4d567519b,{},{}
+Input message set,2025-11-26T17:11:17.747944,1ec31b23-45d0-409c-a472-c4f4d567519b,{},{}
+Patient Verification Completed,2025-11-26T17:11:20.489063,1ec31b23-45d0-409c-a472-c4f4d567519b,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:11:24.137925,1ec31b23-45d0-409c-a472-c4f4d567519b,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:11:27.667811,1ec31b23-45d0-409c-a472-c4f4d567519b,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:11:27.667863,1ec31b23-45d0-409c-a472-c4f4d567519b,{},{}
+Coverage inquiry initiated,2025-11-26T17:11:31.869523,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,{},{}
+Input message set,2025-11-26T17:11:31.869573,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,{},{}
+Patient Verification Completed,2025-11-26T17:11:34.930043,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:11:38.865842,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:11:43.756646,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:11:43.756707,195d3301-ca1e-4aa3-ae0d-d113c3060c5a,{},{}
+Coverage inquiry initiated,2025-11-26T17:11:46.625358,9c70a749-1d2a-4fda-932f-3895b999003f,{},{}
+Input message set,2025-11-26T17:11:46.625409,9c70a749-1d2a-4fda-932f-3895b999003f,{},{}
+Patient Verification Completed,2025-11-26T17:11:50.216530,9c70a749-1d2a-4fda-932f-3895b999003f,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:11:53.758753,9c70a749-1d2a-4fda-932f-3895b999003f,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:11:58.614383,9c70a749-1d2a-4fda-932f-3895b999003f,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:11:58.614418,9c70a749-1d2a-4fda-932f-3895b999003f,{},{}
+Coverage inquiry initiated,2025-11-26T17:12:01.039403,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,{},{}
+Input message set,2025-11-26T17:12:01.039460,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,{},{}
+Patient Verification Completed,2025-11-26T17:12:04.790349,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:12:10.579871,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:12:16.818570,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:12:16.818606,f6d0dfa3-4876-4aa0-80aa-08af6c90a420,{},{}
+Coverage inquiry initiated,2025-11-26T17:12:20.528064,11cffa03-4cf0-4512-81b9-a924e56b5882,{},{}
+Input message set,2025-11-26T17:12:20.528108,11cffa03-4cf0-4512-81b9-a924e56b5882,{},{}
+Patient Verification Completed,2025-11-26T17:12:23.416797,11cffa03-4cf0-4512-81b9-a924e56b5882,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:12:27.145322,11cffa03-4cf0-4512-81b9-a924e56b5882,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:12:30.557725,11cffa03-4cf0-4512-81b9-a924e56b5882,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:12:30.557780,11cffa03-4cf0-4512-81b9-a924e56b5882,{},{}
+Coverage inquiry initiated,2025-11-26T17:12:34.536274,7c019a59-592f-4f00-b7de-7fbe478ad59c,{},{}
+Input message set,2025-11-26T17:12:34.536324,7c019a59-592f-4f00-b7de-7fbe478ad59c,{},{}
+Patient Verification Completed,2025-11-26T17:12:37.494255,7c019a59-592f-4f00-b7de-7fbe478ad59c,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:12:40.819564,7c019a59-592f-4f00-b7de-7fbe478ad59c,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:12:43.712456,7c019a59-592f-4f00-b7de-7fbe478ad59c,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:12:43.712508,7c019a59-592f-4f00-b7de-7fbe478ad59c,{},{}
+Coverage inquiry initiated,2025-11-26T17:12:48.645592,e2be1502-c0a8-4814-b9ab-aedae4194702,{},{}
+Input message set,2025-11-26T17:12:48.645638,e2be1502-c0a8-4814-b9ab-aedae4194702,{},{}
+Patient Verification Completed,2025-11-26T17:12:51.637390,e2be1502-c0a8-4814-b9ab-aedae4194702,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:12:54.353990,e2be1502-c0a8-4814-b9ab-aedae4194702,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:12:57.932858,e2be1502-c0a8-4814-b9ab-aedae4194702,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:12:57.932914,e2be1502-c0a8-4814-b9ab-aedae4194702,{},{}
+Coverage inquiry initiated,2025-11-26T17:13:01.938893,40307b7b-4c22-430a-9d48-67e7edb975ec,{},{}
+Input message set,2025-11-26T17:13:01.938948,40307b7b-4c22-430a-9d48-67e7edb975ec,{},{}
+Patient Verification Completed,2025-11-26T17:13:05.085168,40307b7b-4c22-430a-9d48-67e7edb975ec,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:13:08.426632,40307b7b-4c22-430a-9d48-67e7edb975ec,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:13:11.267978,40307b7b-4c22-430a-9d48-67e7edb975ec,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:13:11.268023,40307b7b-4c22-430a-9d48-67e7edb975ec,{},{}
+Coverage inquiry initiated,2025-11-26T17:13:15.706047,7bfe194d-8eb1-4399-a910-8c243fa84984,{},{}
+Input message set,2025-11-26T17:13:15.706098,7bfe194d-8eb1-4399-a910-8c243fa84984,{},{}
+Patient Verification Completed,2025-11-26T17:13:18.963230,7bfe194d-8eb1-4399-a910-8c243fa84984,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:13:23.194518,7bfe194d-8eb1-4399-a910-8c243fa84984,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:13:26.587271,7bfe194d-8eb1-4399-a910-8c243fa84984,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:13:26.587327,7bfe194d-8eb1-4399-a910-8c243fa84984,{},{}
+Coverage inquiry initiated,2025-11-26T17:13:30.962452,629d563f-b2a3-4561-8912-209728e35abf,{},{}
+Input message set,2025-11-26T17:13:30.962502,629d563f-b2a3-4561-8912-209728e35abf,{},{}
+Patient Verification Completed,2025-11-26T17:13:33.892197,629d563f-b2a3-4561-8912-209728e35abf,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:13:37.031420,629d563f-b2a3-4561-8912-209728e35abf,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:13:40.812826,629d563f-b2a3-4561-8912-209728e35abf,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:13:40.812882,629d563f-b2a3-4561-8912-209728e35abf,{},{}
+Coverage inquiry initiated,2025-11-26T17:13:45.107921,4076636f-4aaa-4013-a34c-08dd0e646c16,{},{}
+Input message set,2025-11-26T17:13:45.107992,4076636f-4aaa-4013-a34c-08dd0e646c16,{},{}
+Patient Verification Completed,2025-11-26T17:13:48.103822,4076636f-4aaa-4013-a34c-08dd0e646c16,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:13:51.339690,4076636f-4aaa-4013-a34c-08dd0e646c16,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:13:54.742333,4076636f-4aaa-4013-a34c-08dd0e646c16,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:13:54.742389,4076636f-4aaa-4013-a34c-08dd0e646c16,{},{}
+Coverage inquiry initiated,2025-11-26T17:13:59.053741,3daae8f7-1b1f-4d3b-9dfe-168ae91ab0e5,{},{}
+Input message set,2025-11-26T17:13:59.053797,3daae8f7-1b1f-4d3b-9dfe-168ae91ab0e5,{},{}
+Patient Verification Completed,2025-11-26T17:14:02.267983,3daae8f7-1b1f-4d3b-9dfe-168ae91ab0e5,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:14:09.007477,3daae8f7-1b1f-4d3b-9dfe-168ae91ab0e5,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:14:09.007515,3daae8f7-1b1f-4d3b-9dfe-168ae91ab0e5,{},{}
+Coverage inquiry initiated,2025-11-26T17:14:11.903482,eeec8f91-8455-44b4-a52c-968d48a0b718,{},{}
+Input message set,2025-11-26T17:14:11.903530,eeec8f91-8455-44b4-a52c-968d48a0b718,{},{}
+Patient Verification Completed,2025-11-26T17:14:14.681131,eeec8f91-8455-44b4-a52c-968d48a0b718,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:14:20.244963,eeec8f91-8455-44b4-a52c-968d48a0b718,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:14:20.244999,eeec8f91-8455-44b4-a52c-968d48a0b718,{},{}
+Coverage inquiry initiated,2025-11-26T17:14:23.347692,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,{},{}
+Input message set,2025-11-26T17:14:23.347736,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,{},{}
+Patient Verification Completed,2025-11-26T17:14:26.483822,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:14:29.989689,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:14:33.692814,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:14:33.692869,344d6f3e-9bc1-4e3e-97d2-2ce2831e4ecc,{},{}
+Coverage inquiry initiated,2025-11-26T17:14:39.461744,cc32b37e-662b-4c97-be13-5d6e93e2f110,{},{}
+Input message set,2025-11-26T17:14:39.461796,cc32b37e-662b-4c97-be13-5d6e93e2f110,{},{}
+Patient Verification Completed,2025-11-26T17:14:43.360920,cc32b37e-662b-4c97-be13-5d6e93e2f110,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:14:46.718569,cc32b37e-662b-4c97-be13-5d6e93e2f110,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:14:49.642354,cc32b37e-662b-4c97-be13-5d6e93e2f110,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:14:49.642431,cc32b37e-662b-4c97-be13-5d6e93e2f110,{},{}
+Coverage inquiry initiated,2025-11-26T17:14:54.315559,f5d930f2-1cd8-49fc-a1d4-6decec37a954,{},{}
+Input message set,2025-11-26T17:14:54.315613,f5d930f2-1cd8-49fc-a1d4-6decec37a954,{},{}
+Patient Verification Completed,2025-11-26T17:14:58.934980,f5d930f2-1cd8-49fc-a1d4-6decec37a954,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:15:02.484157,f5d930f2-1cd8-49fc-a1d4-6decec37a954,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:15:08.664537,f5d930f2-1cd8-49fc-a1d4-6decec37a954,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:15:08.664581,f5d930f2-1cd8-49fc-a1d4-6decec37a954,{},{}
+Coverage inquiry initiated,2025-11-26T17:15:12.375133,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,{},{}
+Input message set,2025-11-26T17:15:12.375220,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,{},{}
+Patient Verification Completed,2025-11-26T17:15:15.646845,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:15:19.310326,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:15:25.708366,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:15:25.708405,f2fb6ab7-109a-4e7e-9d50-f864b04a0738,{},{}
+Coverage inquiry initiated,2025-11-26T17:15:28.443580,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,{},{}
+Input message set,2025-11-26T17:15:28.443645,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,{},{}
+Patient Verification Completed,2025-11-26T17:15:31.364110,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:15:34.773711,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:15:40.893719,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:15:40.893754,dfaac3a5-af3f-4d1d-a9a2-dda67b8d1dec,{},{}
+Coverage inquiry initiated,2025-11-26T17:15:45.057643,1736f441-3b79-44ae-b1a8-b36c2af6672a,{},{}
+Input message set,2025-11-26T17:15:45.057705,1736f441-3b79-44ae-b1a8-b36c2af6672a,{},{}
+Patient Verification Completed,2025-11-26T17:15:48.573494,1736f441-3b79-44ae-b1a8-b36c2af6672a,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:15:52.065284,1736f441-3b79-44ae-b1a8-b36c2af6672a,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:15:57.878451,1736f441-3b79-44ae-b1a8-b36c2af6672a,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:15:57.878491,1736f441-3b79-44ae-b1a8-b36c2af6672a,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:01.920864,6c495e2d-a19c-4cc9-9772-0782df9fa060,{},{}
+Input message set,2025-11-26T17:16:01.920927,6c495e2d-a19c-4cc9-9772-0782df9fa060,{},{}
+Patient Verification Completed,2025-11-26T17:16:05.121260,6c495e2d-a19c-4cc9-9772-0782df9fa060,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:16:08.562434,6c495e2d-a19c-4cc9-9772-0782df9fa060,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:16:12.205073,6c495e2d-a19c-4cc9-9772-0782df9fa060,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:16:12.205128,6c495e2d-a19c-4cc9-9772-0782df9fa060,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:17.851022,be85e15f-e711-4b1a-b38e-270993c174bc,{},{}
+Input message set,2025-11-26T17:16:17.851075,be85e15f-e711-4b1a-b38e-270993c174bc,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:21.503156,1902ffe6-c060-46f9-9516-1a9351219fb0,{},{}
+Input message set,2025-11-26T17:16:21.503201,1902ffe6-c060-46f9-9516-1a9351219fb0,{},{}
+Patient Verification Completed,2025-11-26T17:16:24.226266,1902ffe6-c060-46f9-9516-1a9351219fb0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:16:28.303010,1902ffe6-c060-46f9-9516-1a9351219fb0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:16:36.821955,1902ffe6-c060-46f9-9516-1a9351219fb0,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:16:36.822004,1902ffe6-c060-46f9-9516-1a9351219fb0,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:41.769718,9cf144a5-e525-426b-a234-bff458d9da1c,{},{}
+Input message set,2025-11-26T17:16:41.769769,9cf144a5-e525-426b-a234-bff458d9da1c,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:45.766613,47496886-39b8-4564-84b2-d23ae36c3dde,{},{}
+Input message set,2025-11-26T17:16:45.766684,47496886-39b8-4564-84b2-d23ae36c3dde,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:49.288249,1cfb24fa-f195-49c4-9211-f3358ad37a39,{},{}
+Input message set,2025-11-26T17:16:49.288299,1cfb24fa-f195-49c4-9211-f3358ad37a39,{},{}
+Coverage inquiry initiated,2025-11-26T17:16:53.544258,66bc08c4-ba83-4c5f-8196-4ec282c82bad,{},{}
+Input message set,2025-11-26T17:16:53.544312,66bc08c4-ba83-4c5f-8196-4ec282c82bad,{},{}
+Patient not found,2025-11-26T17:16:56.693500,66bc08c4-ba83-4c5f-8196-4ec282c82bad,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:16:56.693535,66bc08c4-ba83-4c5f-8196-4ec282c82bad,{},{}
+Coverage inquiry initiated,2025-11-26T17:17:00.699952,24e541e5-52f3-4c48-9b0d-9ba95d6f9640,{},{}
+Input message set,2025-11-26T17:17:00.700012,24e541e5-52f3-4c48-9b0d-9ba95d6f9640,{},{}
+Coverage inquiry initiated,2025-11-26T17:17:04.138586,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,{},{}
+Input message set,2025-11-26T17:17:04.138642,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,{},{}
+Patient Verification Completed,2025-11-26T17:17:07.223095,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:17:13.036588,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:17:22.249503,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:17:22.249551,44f11ea3-dc12-4e0e-884c-2146c40ee0c5,{},{}
+Coverage inquiry initiated,2025-11-26T17:17:26.965350,ea377ee8-d74b-4620-aff2-f2fc6728864d,{},{}
+Input message set,2025-11-26T17:17:26.965402,ea377ee8-d74b-4620-aff2-f2fc6728864d,{},{}
+Coverage inquiry initiated,2025-11-26T17:17:30.739600,20fb02e3-34ba-4ed0-ba02-347790254006,{},{}
+Input message set,2025-11-26T17:17:30.739652,20fb02e3-34ba-4ed0-ba02-347790254006,{},{}
+Patient Verification Completed,2025-11-26T17:17:33.698453,20fb02e3-34ba-4ed0-ba02-347790254006,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:17:37.796526,20fb02e3-34ba-4ed0-ba02-347790254006,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:17:44.195402,20fb02e3-34ba-4ed0-ba02-347790254006,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:17:44.195443,20fb02e3-34ba-4ed0-ba02-347790254006,{},{}
+Coverage inquiry initiated,2025-11-26T17:17:48.543251,4ab7d178-9db8-4959-a47d-731798347080,{},{}
+Input message set,2025-11-26T17:17:48.543304,4ab7d178-9db8-4959-a47d-731798347080,{},{}
+Patient Verification Completed,2025-11-26T17:17:51.599173,4ab7d178-9db8-4959-a47d-731798347080,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:17:55.472614,4ab7d178-9db8-4959-a47d-731798347080,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:18:01.400779,4ab7d178-9db8-4959-a47d-731798347080,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:18:01.400810,4ab7d178-9db8-4959-a47d-731798347080,{},{}
+Coverage inquiry initiated,2025-11-26T17:18:05.495590,daa679b0-bf77-4e5a-8aa9-95c972224651,{},{}
+Input message set,2025-11-26T17:18:05.495646,daa679b0-bf77-4e5a-8aa9-95c972224651,{},{}
+Patient Verification Completed,2025-11-26T17:18:08.045880,daa679b0-bf77-4e5a-8aa9-95c972224651,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:18:11.467827,daa679b0-bf77-4e5a-8aa9-95c972224651,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:18:17.924201,daa679b0-bf77-4e5a-8aa9-95c972224651,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:18:17.924250,daa679b0-bf77-4e5a-8aa9-95c972224651,{},{}
+Coverage inquiry initiated,2025-11-26T17:18:21.977154,57ff2402-177b-435f-bed2-55ce06f9b86e,{},{}
+Input message set,2025-11-26T17:18:21.977210,57ff2402-177b-435f-bed2-55ce06f9b86e,{},{}
+Coverage inquiry initiated,2025-11-26T17:18:27.051930,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,{},{}
+Input message set,2025-11-26T17:18:27.051987,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,{},{}
+Patient Verification Completed,2025-11-26T17:18:30.222768,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:18:34.596207,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:18:41.779341,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:18:41.779373,efda3a48-ebf9-40d9-99a0-615f41cfe0e7,{},{}
+Coverage inquiry initiated,2025-11-26T17:18:46.194800,1de3283a-af36-4044-82ab-58cedf5b7d4f,{},{}
+Input message set,2025-11-26T17:18:46.194848,1de3283a-af36-4044-82ab-58cedf5b7d4f,{},{}
+Coverage inquiry initiated,2025-11-26T17:18:49.515654,8232fa5f-2b6b-4c21-bf54-1102cdcfaf8a,{},{}
+Input message set,2025-11-26T17:18:49.515720,8232fa5f-2b6b-4c21-bf54-1102cdcfaf8a,{},{}
+Patient Verification Completed,2025-11-26T17:18:52.629458,8232fa5f-2b6b-4c21-bf54-1102cdcfaf8a,Tool used: verify_patient,{}
+Coverage inquiry initiated,2025-11-26T17:19:00.188327,84dfa6fb-3694-43f3-a790-3610dd56b4f0,{},{}
+Input message set,2025-11-26T17:19:00.188386,84dfa6fb-3694-43f3-a790-3610dd56b4f0,{},{}
+Patient Verification Completed,2025-11-26T17:19:02.789737,84dfa6fb-3694-43f3-a790-3610dd56b4f0,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:19:07.292884,84dfa6fb-3694-43f3-a790-3610dd56b4f0,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:19:13.966463,84dfa6fb-3694-43f3-a790-3610dd56b4f0,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:19:13.966504,84dfa6fb-3694-43f3-a790-3610dd56b4f0,{},{}
+Coverage inquiry initiated,2025-11-26T17:19:16.738123,6743a6eb-b8af-4658-8285-898fdab62375,{},{}
+Input message set,2025-11-26T17:19:16.738171,6743a6eb-b8af-4658-8285-898fdab62375,{},{}
+Patient Verification Completed,2025-11-26T17:19:19.866567,6743a6eb-b8af-4658-8285-898fdab62375,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:19:23.572469,6743a6eb-b8af-4658-8285-898fdab62375,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:19:30.200694,6743a6eb-b8af-4658-8285-898fdab62375,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:19:30.200739,6743a6eb-b8af-4658-8285-898fdab62375,{},{}
+Coverage inquiry initiated,2025-11-26T17:19:33.352873,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,{},{}
+Input message set,2025-11-26T17:19:33.352939,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,{},{}
+Patient Verification Completed,2025-11-26T17:19:37.224733,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:19:41.451933,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:19:45.245754,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:19:45.245796,d49bfc9d-6d89-4ca7-ae41-ef52d2e1cd4b,{},{}
+Coverage inquiry initiated,2025-11-26T17:19:48.912293,e92bcf92-7739-4dea-ac50-ea713dda9d56,{},{}
+Input message set,2025-11-26T17:19:48.912345,e92bcf92-7739-4dea-ac50-ea713dda9d56,{},{}
+Coverage inquiry initiated,2025-11-26T17:19:51.814386,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,{},{}
+Input message set,2025-11-26T17:19:51.814441,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,{},{}
+Patient Verification Completed,2025-11-26T17:19:55.422351,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:20:01.107490,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:20:05.457030,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,Tool used: finalize_decision,decision: Covered
+Case closed,2025-11-26T17:20:05.457083,fbbcad2d-c161-4000-ade3-531cd7c8ffb8,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:11.162705,cbccf3e3-1ff2-4c91-89e4-ca4d11c2651f,{},{}
+Input message set,2025-11-26T17:20:11.162754,cbccf3e3-1ff2-4c91-89e4-ca4d11c2651f,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:14.839758,f86b7aa2-413b-4743-bf3b-58a95bac19ef,{},{}
+Input message set,2025-11-26T17:20:14.839826,f86b7aa2-413b-4743-bf3b-58a95bac19ef,{},{}
+Patient not found,2025-11-26T17:20:17.830507,f86b7aa2-413b-4743-bf3b-58a95bac19ef,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:20:17.830547,f86b7aa2-413b-4743-bf3b-58a95bac19ef,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:21.625459,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,{},{}
+Input message set,2025-11-26T17:20:21.625521,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,{},{}
+Patient Verification Completed,2025-11-26T17:20:25.582681,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:20:29.320608,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:20:36.069166,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:20:36.069208,7c6fe8d4-ff7c-4acd-8e2f-f319e886840f,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:41.301561,c148469a-c08d-4117-a90e-807fcda89092,{},{}
+Input message set,2025-11-26T17:20:41.301613,c148469a-c08d-4117-a90e-807fcda89092,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:45.329602,695f28f8-e0de-4d2d-9510-760b72a5c7d1,{},{}
+Input message set,2025-11-26T17:20:45.329648,695f28f8-e0de-4d2d-9510-760b72a5c7d1,{},{}
+Coverage inquiry initiated,2025-11-26T17:20:49.433434,e86d0f8e-4be6-40ba-8fd1-c208622c97d6,{},{}
+Input message set,2025-11-26T17:20:49.433487,e86d0f8e-4be6-40ba-8fd1-c208622c97d6,{},{}
+Patient Verification Completed,2025-11-26T17:20:53.036250,e86d0f8e-4be6-40ba-8fd1-c208622c97d6,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:20:56.634865,e86d0f8e-4be6-40ba-8fd1-c208622c97d6,Tool used: check_coverage,{}
+Coverage inquiry initiated,2025-11-26T17:21:03.312502,6f9b6844-2d5c-4d07-bfa3-ecbd0b39b779,{},{}
+Input message set,2025-11-26T17:21:03.312553,6f9b6844-2d5c-4d07-bfa3-ecbd0b39b779,{},{}
+Patient Verification Completed,2025-11-26T17:21:06.582081,6f9b6844-2d5c-4d07-bfa3-ecbd0b39b779,Tool used: verify_patient,{}
+Decision Finalized,2025-11-26T17:21:13.739409,6f9b6844-2d5c-4d07-bfa3-ecbd0b39b779,Tool used: finalize_decision,decision: Escalated
+Case closed,2025-11-26T17:21:13.739448,6f9b6844-2d5c-4d07-bfa3-ecbd0b39b779,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:16.287573,033e5a34-19b8-444d-b579-b38031c3981c,{},{}
+Input message set,2025-11-26T17:21:16.287624,033e5a34-19b8-444d-b579-b38031c3981c,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:19.844123,37c47925-bec1-4d91-bd98-8b9e4e5a18d2,{},{}
+Input message set,2025-11-26T17:21:19.844187,37c47925-bec1-4d91-bd98-8b9e4e5a18d2,{},{}
+Patient Verification Completed,2025-11-26T17:21:22.493620,37c47925-bec1-4d91-bd98-8b9e4e5a18d2,Tool used: verify_patient,{}
+Coverage inquiry initiated,2025-11-26T17:21:27.112768,3f0fac5e-5576-47de-be06-fe4771105480,{},{}
+Input message set,2025-11-26T17:21:27.112829,3f0fac5e-5576-47de-be06-fe4771105480,{},{}
+Patient not found,2025-11-26T17:21:29.745311,3f0fac5e-5576-47de-be06-fe4771105480,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:21:29.745356,3f0fac5e-5576-47de-be06-fe4771105480,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:33.144123,d4b8b515-f401-4893-a1ce-451b65af3fc9,{},{}
+Input message set,2025-11-26T17:21:33.144173,d4b8b515-f401-4893-a1ce-451b65af3fc9,{},{}
+Patient not found,2025-11-26T17:21:36.483979,d4b8b515-f401-4893-a1ce-451b65af3fc9,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:21:36.484031,d4b8b515-f401-4893-a1ce-451b65af3fc9,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:40.162673,817f4c36-d626-4a51-b08f-b7170a33320a,{},{}
+Input message set,2025-11-26T17:21:40.162725,817f4c36-d626-4a51-b08f-b7170a33320a,{},{}
+Patient not found,2025-11-26T17:21:43.278492,817f4c36-d626-4a51-b08f-b7170a33320a,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:21:43.278532,817f4c36-d626-4a51-b08f-b7170a33320a,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:47.414911,bdbb04e8-ac9c-4040-9316-5316ccc351cb,{},{}
+Input message set,2025-11-26T17:21:47.414974,bdbb04e8-ac9c-4040-9316-5316ccc351cb,{},{}
+Patient not found,2025-11-26T17:21:50.656149,bdbb04e8-ac9c-4040-9316-5316ccc351cb,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:21:50.656309,bdbb04e8-ac9c-4040-9316-5316ccc351cb,{},{}
+Coverage inquiry initiated,2025-11-26T17:21:55.470558,263ca474-5798-4b34-9452-a12b974bbb3e,{},{}
+Input message set,2025-11-26T17:21:55.470613,263ca474-5798-4b34-9452-a12b974bbb3e,{},{}
+Patient Verification Completed,2025-11-26T17:21:58.327192,263ca474-5798-4b34-9452-a12b974bbb3e,Tool used: verify_patient,{}
+Coverage Checked,2025-11-26T17:22:02.003175,263ca474-5798-4b34-9452-a12b974bbb3e,Tool used: check_coverage,{}
+Decision Finalized,2025-11-26T17:22:07.819448,263ca474-5798-4b34-9452-a12b974bbb3e,Tool used: finalize_decision,decision: Not Covered
+Case closed,2025-11-26T17:22:07.819490,263ca474-5798-4b34-9452-a12b974bbb3e,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:11.516430,a188b5db-7698-42e5-a334-df69ce2b8695,{},{}
+Input message set,2025-11-26T17:22:11.516483,a188b5db-7698-42e5-a334-df69ce2b8695,{},{}
+Patient not found,2025-11-26T17:22:14.349038,a188b5db-7698-42e5-a334-df69ce2b8695,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:22:14.349087,a188b5db-7698-42e5-a334-df69ce2b8695,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:17.630289,f2cff85c-c6d3-4dd2-98da-1f94d413d5ca,{},{}
+Input message set,2025-11-26T17:22:17.630334,f2cff85c-c6d3-4dd2-98da-1f94d413d5ca,{},{}
+Patient not found,2025-11-26T17:22:20.771309,f2cff85c-c6d3-4dd2-98da-1f94d413d5ca,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:22:20.771350,f2cff85c-c6d3-4dd2-98da-1f94d413d5ca,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:24.453724,44b1f755-f6ed-451a-b004-cf5429a395f9,{},{}
+Input message set,2025-11-26T17:22:24.453778,44b1f755-f6ed-451a-b004-cf5429a395f9,{},{}
+Patient not found,2025-11-26T17:22:27.480974,44b1f755-f6ed-451a-b004-cf5429a395f9,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:22:27.481010,44b1f755-f6ed-451a-b004-cf5429a395f9,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:30.970482,fc5095a5-fb53-4f65-8753-d06505400adb,{},{}
+Input message set,2025-11-26T17:22:30.970538,fc5095a5-fb53-4f65-8753-d06505400adb,{},{}
+Patient not found,2025-11-26T17:22:34.166459,fc5095a5-fb53-4f65-8753-d06505400adb,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:22:34.166506,fc5095a5-fb53-4f65-8753-d06505400adb,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:37.965413,16c998c1-546b-4003-b08d-db81bd403eba,{},{}
+Input message set,2025-11-26T17:22:37.965463,16c998c1-546b-4003-b08d-db81bd403eba,{},{}
+Patient not found,2025-11-26T17:22:41.499342,16c998c1-546b-4003-b08d-db81bd403eba,Tool used: verify_patient,{}
+Case closed,2025-11-26T17:22:41.499379,16c998c1-546b-4003-b08d-db81bd403eba,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:44.775859,337ba54f-a0ff-4e1e-96f7-c35d0158d7a8,{},{}
+Input message set,2025-11-26T17:22:44.775920,337ba54f-a0ff-4e1e-96f7-c35d0158d7a8,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:48.572228,7ca1d429-aa11-45dc-b95c-e537dcded5b8,{},{}
+Input message set,2025-11-26T17:22:48.572303,7ca1d429-aa11-45dc-b95c-e537dcded5b8,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:52.519064,1cea54b1-1dec-4272-b78e-534ed40ecf33,{},{}
+Input message set,2025-11-26T17:22:52.519120,1cea54b1-1dec-4272-b78e-534ed40ecf33,{},{}
+Coverage inquiry initiated,2025-11-26T17:22:56.743095,c1ec9c5b-ee0f-4d6b-b9b7-9239c108ec94,{},{}
+Input message set,2025-11-26T17:22:56.743159,c1ec9c5b-ee0f-4d6b-b9b7-9239c108ec94,{},{}
+Coverage inquiry initiated,2025-11-26T17:23:02.477957,9011dcdd-bbe4-4757-84c6-086428ab75dc,{},{}
+Input message set,2025-11-26T17:23:02.478011,9011dcdd-bbe4-4757-84c6-086428ab75dc,{},{}
