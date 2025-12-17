@@ -6,6 +6,8 @@ The objective behind this project is mining a 100% agentic workflow to demonstra
 ### Files
 Insurance_Verification_Agent.ipynb contains the code which create the agent, its tools and the interaction with the users
 
+Process_Mining.ipynb contains the code which process the agent logs and draw the workflow the agent followed with its respective variants
+
 Patient.csv and Patient.xlsx contain the list of 50 different policyholders
 
 
