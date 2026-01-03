@@ -61,6 +61,8 @@ dependencies:
   - pyopenssl=25.0.0
   - pysocks=1.7.1
   - python=3.12.3
+  - plotly
+  - networkx
   - readline=8.2
   - reproc=14.2.4
   - reproc-cpp=14.2.4
