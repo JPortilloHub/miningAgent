@@ -61,6 +61,7 @@ dependencies:
   - pyopenssl=25.0.0
   - pysocks=1.7.1
   - python=3.12.3
+  - python-dotenv
   - plotly
   - networkx
   - readline=8.2
@@ -87,4 +88,5 @@ dependencies:
       - cryptography==43.0.1
       - pip==25.3
       - tqdm==4.66.3
+      - anthropic
 prefix: /opt/conda
