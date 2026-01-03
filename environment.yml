@@ -45,6 +45,7 @@ dependencies:
   - libuuid=1.41.5
   - libxml2=2.13.9
   - lz4-c=1.9.4
+  - matplotlib
   - menuinst=2.0.2
   - ncurses=6.4
   - nlohmann_json=3.11.2
