@@ -50,6 +50,7 @@ dependencies:
   - nlohmann_json=3.11.2
   - openssl=3.0.18
   - packaging=23.2
+  - pandas
   - pcre2=10.42
   - platformdirs=3.10.0
   - pluggy=1.0.0
