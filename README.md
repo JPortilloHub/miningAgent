@@ -186,8 +186,3 @@ The analysis identifies different execution paths, such as:
 ## License
 
 This project is available for educational and demonstration purposes.
-
-## Acknowledgments
-
-- Anthropic for Claude API
-- Process mining community for methodologies and best practices
