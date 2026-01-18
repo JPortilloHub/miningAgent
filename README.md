@@ -187,10 +187,6 @@ The analysis identifies different execution paths, such as:
 
 This project is available for educational and demonstration purposes.
 
-## Author
-
-Jorge Portillo - [GitHub](https://github.com/JPortilloHub)
-
 ## Acknowledgments
 
 - Anthropic for Claude API
